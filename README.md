@@ -1,2 +1,3 @@
 # GAS_doPost_form
+Googleフォームでは表現できないようなフォームを作成するために、GASとHTMLを利用してオリジナルのフォームを作成し、入力内容をスプレッドシートに記録するための方法。詳細はこちら
 https://productivityresearch.net/programing/116/
